@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1000917142630",
+    "firebase_url": "https://queen-7d544.firebaseio.com",
+    "project_id": "queen-7d544",
+    "storage_bucket": "queen-7d544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000917142630:android:fb429b3f0930122c",
+        "android_client_info": {
+          "package_name": "com.serena100615.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000917142630-t6lkjroaksk9eodgdvvfbrr9ctv8d4dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serena100615.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "1000917142630-b71q15nm379bl5rkil568s1k5nu06fhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUO097Q5BhxNJYmtqjS1qVy7Z-K9vCH2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000917142630-b71q15nm379bl5rkil568s1k5nu06fhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
